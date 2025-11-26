@@ -1,4 +1,4 @@
-# projects
+# Project
 
 # YouTube Homepage Clone
 
